@@ -1,4 +1,4 @@
-name: 'AWS CLI'
+name: 'Action AWS CLI'
 description: 'GitHub Action for AWS CLI'
 author: giboow
 branding:
